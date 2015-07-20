@@ -1,5 +1,4 @@
-# WooMU
-## WooCommerce MultiSite Fork
+# WooMU  - MultiSite WooCommerce Fork
 
 WooMU is the first attempt to create an Open Source MultiSite and Multi Store version of the popular eCommerce solution for WordPress, WooCommerce™.
 
